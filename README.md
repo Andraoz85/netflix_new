@@ -17,6 +17,5 @@ Run the following command to clone the repository:
   Launch Jupyter Notebook:
       jupyter notebook
 
-Data
 The required dataset for this project is located in the data folder. The notebook will automatically load the dataset from its relative path.
 If you need to download the dataset separately, you can find it at the following link: https://github.com/Andraoz85/netflix_new/blob/main/data/netflix_titles.csv
