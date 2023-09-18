@@ -1,3 +1,5 @@
+**Netflix EDA and Movie Recommendation System using NLP***
+
 Running the Project Locally
 
 To run this project on your local machine, please follow these steps:
